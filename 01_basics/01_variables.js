@@ -10,7 +10,7 @@ let accountState
 accountEmail = "yash@by.com"
 accountPassword = "212121"
 accountCity = "Surat"
-sss
+
 // change some details
 var accountCity = "dubai"
 
